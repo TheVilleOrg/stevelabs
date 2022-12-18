@@ -18,7 +18,7 @@
     "cookie-parser": "^1.4.5",
     "discord.js": "^12.5.1",
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.6",
+    "express-handlebars": "^5.3.1",
     "node-fetch": "^2.6.1",
     "node-nlp": "^4.17.2",
     "socket.io": "^2.4.0",
